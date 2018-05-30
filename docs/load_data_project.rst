@@ -15,7 +15,7 @@ Once you are inside the project, load the data by clicking in the sign **+**.
 .. image:: figures/inside_project.png
    :width: 800px
    :align: center
-   :height: 400px
+   :height: 200px
    :alt: alternate text
 
 Then, go to the column **VIZUAL**, and click on **Load Dataset**
